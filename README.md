@@ -1,6 +1,6 @@
 
 [![pretty
-Status](https://smo-wiki.leibniz-hbi.de/)](https://travis-ci.org/jswanner/markdown-buttons)
+wiki](https://smo-wiki.leibniz-hbi.de/)](https://smo-wiki.leibniz-hbi.de/)
 
 
 {{#markdown-bold action=(action (mut value)) for="input"}}Bold{{/markdown-bold}}
