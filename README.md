@@ -1,3 +1,3 @@
 
-[![Build
-Status](https://travis-ci.org/jswanner/markdown-buttons.svg?branch=master)](https://travis-ci.org/jswanner/markdown-buttons)
+[![pretty
+Status](https://smo-wiki.leibniz-hbi.de/)](https://travis-ci.org/jswanner/markdown-buttons)
